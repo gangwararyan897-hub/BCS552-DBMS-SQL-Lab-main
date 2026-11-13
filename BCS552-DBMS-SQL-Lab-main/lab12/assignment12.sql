@@ -1,4 +1,4 @@
--- Name: Sidra Ahmad| Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 12
+-- Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 12
 -- Assignment 12: Using a Subquery
 -- Aim: Use one query inside another query, with IN.
 

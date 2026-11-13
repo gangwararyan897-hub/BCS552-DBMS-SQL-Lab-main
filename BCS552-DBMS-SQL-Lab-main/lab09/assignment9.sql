@@ -1,4 +1,4 @@
--- Name: Sidra Ahmad| Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 9
+-- Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 9
 -- Assignment 9: Aliases and CASE
 -- Aim: Give columns new names and show a value chosen by a condition.
 

@@ -1,4 +1,4 @@
--- Name: Sidra Ahmad| Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 15
+-- Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 15
 -- Assignment 15: Indexes and Adding a Row
 -- Aim: Create an index on a column, read rows by that column, and add a row.
 

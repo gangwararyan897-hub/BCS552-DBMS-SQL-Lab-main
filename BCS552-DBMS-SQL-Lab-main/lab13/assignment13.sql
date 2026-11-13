@@ -1,4 +1,4 @@
--- Name: Sidra Ahmad| Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 13
+-- Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 13
 -- Assignment 13: UNION and INTERSECT
 -- Aim: Combine two lists of names, and find the names in both lists.
 

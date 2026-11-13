@@ -1,4 +1,4 @@
--- Name: Sidra Ahmad| Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 5
+-- Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 5
 -- Assignment 5: Pattern Matching with LIKE
 -- Aim: Find titles that match a pattern with LIKE.
 

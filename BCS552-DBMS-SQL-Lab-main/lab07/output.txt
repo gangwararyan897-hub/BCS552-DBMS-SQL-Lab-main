@@ -1,4 +1,4 @@
-Name: Sidra Ahmad| Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 7
+Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 7
 Assignment 7: Using Aggregate Functions
 (Output of assignment7.sql)
 
