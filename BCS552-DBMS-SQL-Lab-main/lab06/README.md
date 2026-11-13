@@ -1,8 +1,8 @@
 # Lab 6: Sorting Rows and Removing Repeats
 
-**Name:** Sidra Ahmad  
-**Roll No:** 2410303596  
-**Student ID:** BCS2024641  
+**Name:** Aryan Gangwar 
+**Roll No:** 2410303583  
+**Student ID:** BCS2024628  
 **Course:** BCS552 - DBMS & SQL Lab  
 **University:** Invertis University, Bareilly (B.Tech CSE)
 

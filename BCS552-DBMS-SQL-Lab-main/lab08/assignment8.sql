@@ -1,4 +1,4 @@
--- Name: Sidra Ahmad | Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 8
+-- Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 8
 -- Assignment 8: Grouping Rows and Using HAVING
 -- Aim: Group the rows by region and check the totals of each group.
 

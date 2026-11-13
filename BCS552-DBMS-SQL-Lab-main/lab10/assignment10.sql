@@ -1,4 +1,4 @@
--- Name: Sidra Ahmad | Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 10
+-- Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 10
 -- Assignment 10: Joining Two Tables with INNER JOIN
 -- Aim: Join a department table and an employee table on dept_id.
 
