@@ -1,4 +1,4 @@
--- Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 1
+-- Name: Sidra Ahmad| Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 1
 -- Assignment 1: Creating a Table and Adding Rows
 -- Aim: Create a table, add three rows with one INSERT, and show the table.
 

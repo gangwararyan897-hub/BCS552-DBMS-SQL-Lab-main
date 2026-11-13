@@ -1,4 +1,4 @@
--- Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 6
+-- Name: Sidra Ahmad| Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 6
 -- Assignment 6: Sorting Rows and Removing Repeats
 -- Aim: Sort the rows, remove repeated values, and show only some rows.
 

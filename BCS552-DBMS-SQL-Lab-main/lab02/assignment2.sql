@@ -1,4 +1,4 @@
--- Name: Aryan Gangwar| Roll No: 2410303583 | Student ID: BCS2024628 | Assignment 2
+-- Name: Sidra Ahmad| Roll No: 2410303596 | Student ID: BCS2024641 | Assignment 2
 -- Assignment 2: Updating and Deleting Rows
 -- Aim: Change a value in a row, then delete a row, and check the table after each step.
 

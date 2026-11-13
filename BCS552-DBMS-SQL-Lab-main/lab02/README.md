@@ -1,8 +1,8 @@
 # Lab 2: Updating and Deleting Rows
 
-**Name:** Aryan Gangwar 
+**Name:** Sidra Ahmad 
 **Roll No:** 241030396  
-**Student ID:** BCS2024628  
+**Student ID:** BCS2024641  
 **Course:** BCS552 - DBMS & SQL Lab  
 **University:** Invertis University, Bareilly (B.Tech CSE)
 
